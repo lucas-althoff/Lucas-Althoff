@@ -1,7 +1,4 @@
 
-
-Greetings, I am Lucas Althoff a motivated Computer Science Researcher from Brazil.
-
 <h1 align="center"> 【LUCAS ALTHOFF】</h1>
 <p align="center">
  RESEARCHER COMPUTER SCIENTIST.<br/>
