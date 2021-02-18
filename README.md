@@ -1,5 +1,6 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lucas-althoff)
 
+Greetings, I am Lucas Althoff a motivated Computer Science Researcher from Brazil.
 
 <h1 align="center"> 【LUCAS ALTHOFF】</h1>
 <p align="center">
@@ -20,14 +21,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on: Automatic Driven Virtual Reality Editing System & ETL for Health Big Data 
+- 🌱 I’m currently learning: Automatic cinematography with Unity, Machine Learning Development, ETL with R  
+- 👯 I’m collaborating with [GPDS - UnB](http://www.gpds.ene.unb.br/) & [LMI - Sentinela](http://www.lmi-sentinela.unb.br/)
+- ⚡ Fun fact: I understand that science and art can become a powerful tool to overcome inequality in the world, turning science less boring and art even more expansive. Contributing with Audiovisual Projects (as well as other cultural projects) is a personal goal, which I’d could collaborate to bring a positive social impact by making use of the technical knowledge developed in academic context.
 -->
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-althoff)]
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-althoff&layout=compact)]
