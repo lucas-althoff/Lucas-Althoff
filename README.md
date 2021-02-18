@@ -10,7 +10,7 @@
   <a href="https://twitter.com/billdarwaza" target="_blank">ᴛᴡɪᴛᴛᴇʀ</a> |
   <a href="https://www.stackoverflow.com/users/https://stackoverflow.com/users/13046357/lucas-althoff" target="_blank">ꜱᴛᴀᴄᴋᴏᴠᴇʀꜰʟᴏᴡ</a> <br/>
   <a href="https://www.researchgate.net/profile/Lucas-Althoff" target="_blank">Research Gate</a> |
-  <a href="https://scholar.google.com.br/citations?hl=pt-BR&user=POn52SkAAAAJ" target="_blank">GScholar - ᴄᴠ</a><br/>
+  <a href="https://scholar.google.com.br/citations?hl=pt-BR&user=POn52SkAAAAJ" target="_blank">GScholar</a><br/>
 </p>
 <!--
 **lucas-althoff/Lucas-Althoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-althoff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-althoff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-althoff)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-althoff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
