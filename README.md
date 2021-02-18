@@ -1,7 +1,7 @@
 <h1 align="center"> 【LUCAS ALTHOFF】</h1>
 <p align="center">
 
-Greetings, I am Lucas Althoff a motivated PhD. Student from Brazil. 
+Greetings, I am Lucas Althoff a motivated physicist and PhD. Computer Science Student from Brazil. 
 I'm a Husband, Father, Developer, and Teacher!!
 </p>
 
