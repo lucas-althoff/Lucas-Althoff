@@ -4,7 +4,6 @@ Greetings, I am Lucas Althoff a motivated Computer Science Researcher from Brazi
 
 <h1 align="center"> 【LUCAS ALTHOFF】</h1>
 <p align="center">
- ![Github stats](https://github-readme-stats.vercel.app/api?username=lucas-althoff)<br/>
  RESEARCHER COMPUTER SCIENTIST.<br/>
   ʟᴏᴠᴇ ᴄᴏᴅɪɴɢ | ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ | Qᴜɪᴄᴋ ʟᴇᴀʀɴᴇʀ<br/>
   ꜱᴏᴍᴇ ᴘʀᴏꜰɪʟᴇꜱ ʏᴏᴜ ᴍᴀʏ ᴡᴀɴᴛ ᴛᴏ ꜱᴇᴇ: <br/><br/>
@@ -27,5 +26,5 @@ Greetings, I am Lucas Althoff a motivated Computer Science Researcher from Brazi
 Here are some ideas to get you started:
 
 -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-althoff&layout=compact)]
+![Github stats](https://github-readme-stats.vercel.app/api?username=lucas-althoff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-althoff&layout=compact)
