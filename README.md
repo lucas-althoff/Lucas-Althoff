@@ -1,3 +1,4 @@
+Greetings, I am Lucas Althoff a motivated PhD. Student from Brazil.
 
 <h1 align="center"> 【LUCAS ALTHOFF】</h1>
 <p align="center">
@@ -16,12 +17,7 @@
 - 🌱 I’m currently learning: Automatic cinematography with Unity, Machine Learning Development, ETL with R  
 - 👯 I’m collaborating with [GPDS - UnB](http://www.gpds.ene.unb.br/) & [LMI - Sentinela](http://www.lmi-sentinela.unb.br/)
 - ⚡ Fun fact: I understand that science and art can become a powerful tool to overcome inequality in the world, turning science less boring and art even more expansive. Contributing with Audiovisual Projects (as well as other cultural projects) is a personal goal, which I’d could collaborate to bring a positive social impact by making use of the technical knowledge developed in academic context.
-- 
-<!--
-**lucas-althoff/Lucas-Althoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
--->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lucas-althoff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-althoff&layout=compact)
