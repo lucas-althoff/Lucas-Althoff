@@ -1,3 +1,6 @@
+![Github stats](https://github-readme-stats.vercel.app/api?username=lucas-althoff)
+
+
 <h1 align="center"> 【LUCAS ALTHOFF】</h1>
 <p align="center">
   RESEARCHER COMPUTER SCIENTIST.<br/>
