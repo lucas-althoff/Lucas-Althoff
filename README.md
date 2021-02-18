@@ -1,11 +1,10 @@
 <h1 align="center"> 【LUCAS ALTHOFF】</h1>
 <p align="center">
 
-Greetings, I am Lucas Althoff a motivated PhD. Student from Brazil.
-
+Greetings, I am Lucas Althoff a motivated PhD. Student from Brazil. 
+I'm a Husband, Father, Developer, and Teacher!!
 </p>
 
-## I'm a Husband, Father, Developer, and Teacher!!
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
