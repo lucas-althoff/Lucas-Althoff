@@ -1,17 +1,11 @@
-Greetings, I am Lucas Althoff a motivated PhD. Student from Brazil.
-
 <h1 align="center"> 【LUCAS ALTHOFF】</h1>
 <p align="center">
- RESEARCHER COMPUTER SCIENTIST.<br/>
-  ʟᴏᴠᴇ ᴄᴏᴅɪɴɢ | ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ | Qᴜɪᴄᴋ ʟᴇᴀʀɴᴇʀ<br/>
-  ꜱᴏᴍᴇ ᴘʀᴏꜰɪʟᴇꜱ ʏᴏᴜ ᴍᴀʏ ᴡᴀɴᴛ ᴛᴏ ꜱᴇᴇ: <br/><br/>
-  <a href="https://www.linkedin.com/in//lucas-althoff-747451151/" target="_blank">LinkedIn</a> |
-  <a href="https://lucas-althoff.github.io/" target="_blank">Web CV</a><br/>
-  <a href="https://twitter.com/billdarwaza" target="_blank">ᴛᴡɪᴛᴛᴇʀ</a> |
-  <a href="https://www.stackoverflow.com/users/https://stackoverflow.com/users/13046357/lucas-althoff" target="_blank">ꜱᴛᴀᴄᴋᴏᴠᴇʀꜰʟᴏᴡ</a> <br/>
-  <a href="https://www.researchgate.net/profile/Lucas-Althoff" target="_blank">Research Gate</a> |
-  <a href="https://scholar.google.com.br/citations?hl=pt-BR&user=POn52SkAAAAJ" target="_blank">GScholar</a><br/>
+
+Greetings, I am Lucas Althoff a motivated PhD. Student from Brazil.
+
 </p>
+
+## I'm a Husband, Father, Developer, and Teacher!!
 
 ### Connect with me:
 
@@ -20,10 +14,14 @@ Greetings, I am Lucas Althoff a motivated PhD. Student from Brazil.
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />][orcid]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][googlescholar]
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
 
 - 🔭 I’m currently working on: Automatic Driven Virtual Reality Editing System & ETL for Health Big Data 
 - 🌱 I’m currently learning: Automatic cinematography with Unity, Machine Learning Development, ETL with R  
@@ -42,7 +40,9 @@ Greetings, I am Lucas Althoff a motivated PhD. Student from Brazil.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lucas-althoff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-althoff&layout=compact)
 
-
+[orcid]: https://orcid.org/0000-0002-3387-9686
+[researchgate]: https://www.researchgate.net/profile/Lucas-Althoff
+[googlescholar]: https://scholar.google.com.br/citations?hl=pt-BR&user=POn52SkAAAAJ
 [website]: https://lucas-althoff.github.io/
 [email]: https://ls.althoff@gmail.com
 [linkedin]: https://www.linkedin.com/in//lucas-althoff-747451151
