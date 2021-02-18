@@ -2,6 +2,7 @@
 <p align="center">
 
 Greetings, I am Lucas Althoff a motivated physicist and PhD. Computer Science Student from Brazil. 
+
 I'm a Husband, Father, Developer, and Teacher!!
 </p>
 
