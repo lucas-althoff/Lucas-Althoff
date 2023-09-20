@@ -32,9 +32,10 @@ I'm a Husband, Father, Developer, and Teacher!!
 
 #### Track Back
 
-- 🔭 I’m currently working on: Automatic Driven Virtual Reality Editing System & ETL for Health Big Data 
-- 🌱 I’m currently learning: Automatic cinematography with Unity, Machine Learning Development, ETL with R  
-- 👯 I’m collaborating with [GPDS - UnB](http://www.gpds.ene.unb.br/) & [LMI - Sentinela](http://www.lmi-sentinela.unb.br/)
+- 🔭 I’m currently working on: Web-based VR Video Player with Editing Mechanism & Microsservice-based API suite  
+- 🌱 I’m currently learning: API development with Python, MLOps, Statistical analysis with R  
+- 👯 I'm collaborating with [SmartCity Games]
+- 🐬 Honored to have collaborated with [GPDS - UnB](http://www.gpds.ene.unb.br/) & [LMI - Sentinela](http://www.lmi-sentinela.unb.br/)
 - ⚡ Fun fact: I understand that science and art can become a powerful tool to overcome inequality in the world, turning science less boring and art even more expansive. Contributing with Audiovisual Projects (as well as other cultural projects) is a personal goal, which I’d could collaborate to bring a positive social impact by making use of the technical knowledge developed in academic context.
 
 </details>
