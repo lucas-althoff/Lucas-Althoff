@@ -35,7 +35,7 @@ I'm a Husband, Father, Professor, and Developer !!
 - 🔭 I’m currently working on: Data Warehouse Modeling, Big data ETL and Full Stack APP   
 - 🌱 I’m currently learning: Advanced ETL and Data Warehouse Modeling, CI/CD, React Front-End  
 - 👯 I'm collaborating with [EXPO-ride](https://www.exporide.com.br/) and [Align360](https://osf.io/5fa7y/) projects 
-- 🐬 Honored to have collaborated with [GPDS - UnB](http://www.gpds.ene.unb.br/) & [LMI - Sentinela](http://www.lmi-sentinela.unb.br/)
+- 🐬 Honored to have collaborated with [GPDS - UnB](https://gitlab.com/gpds-unb) & [LMI - Sentinela](http://www.lmi-sentinela.unb.br/) & [Smartcity Games]
 - ⚡ Fun fact: I understand that science and art can become a powerful tool to overcome inequality in the world, turning science less boring and art even more expansive. Contributing with Audiovisual Projects (as well as other cultural projects) is a personal goal, which I’d could collaborate to bring a positive social impact by making use of the technical knowledge developed in academic context.
 
 </details>
