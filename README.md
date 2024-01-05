@@ -1,9 +1,9 @@
 <h1 align="center"> 【LUCAS ALTHOFF】</h1>
 <p align="center">
 
-Greetings, I am Lucas Althoff a motivated physicist and PhD. Computer Science Student from Brazil. 
+Greetings, I am Lucas Althoff a motivated physicist with Computer Science PhD from Brazil. 
 
-I'm a Husband, Father, Developer, and Teacher!!
+I'm a Husband, Father, Professor, and Developer !!
 </p>
 
 #### Connect with me:
@@ -32,9 +32,9 @@ I'm a Husband, Father, Developer, and Teacher!!
 
 #### Track Back
 
-- 🔭 I’m currently working on: Web-based VR Video Player with Editing Mechanism & Microsservice-based API suite  
-- 🌱 I’m currently learning: API development with Python, MLOps, Statistical analysis with R  
-- 👯 I'm collaborating with [SmartCity Games]
+- 🔭 I’m currently working on: Data Warehouse Modeling, Big data ETL and Full Stack APP   
+- 🌱 I’m currently learning: Advanced ETL and Data Warehouse Modeling, CI/CD, React Front-End  
+- 👯 I'm collaborating with [EXPO-ride](https://www.exporide.com.br/) and [Align360](https://osf.io/5fa7y/) projects 
 - 🐬 Honored to have collaborated with [GPDS - UnB](http://www.gpds.ene.unb.br/) & [LMI - Sentinela](http://www.lmi-sentinela.unb.br/)
 - ⚡ Fun fact: I understand that science and art can become a powerful tool to overcome inequality in the world, turning science less boring and art even more expansive. Contributing with Audiovisual Projects (as well as other cultural projects) is a personal goal, which I’d could collaborate to bring a positive social impact by making use of the technical knowledge developed in academic context.
 
