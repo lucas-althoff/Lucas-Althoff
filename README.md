@@ -3,7 +3,7 @@
 
 Greetings, I am Lucas Althoff a motivated physicist with Computer Science PhD from Brazil. 
 
-I'm a Husband, Father, Professor, and Developer !!
+I'm a Husband, Father, Professor, and of course... a Developer !!
 </p>
 
 #### Connect with me:
@@ -32,11 +32,13 @@ I'm a Husband, Father, Professor, and Developer !!
 
 #### Track Back
 
-- 🔭 I’m currently working on: Analytical Pipelines with Machine Learning and 3D WebAPPs   
-- 🌱 I’m currently learning: AWS Machine Learning Specialty, ThreeJS  
-- 👯 I'm collaborating with [Align360](https://osf.io/5fa7y/) projects 
-- 🐬 Honored to have collaborated with [XLIM lab](https://www.xlim.fr/), [GPDS - UnB](https://gitlab.com/gpds-unb) & [LMI - Sentinela](http://www.lmi-sentinela.unb.br/)
-- ⚡ Fun fact: I believe that science and art can become a powerful tool to overcome inequality in the world, turning science less boring and art even more expansive. Contributing with Audiovisual Projects (as well as other cultural projects) is a personal hobby, which I’d could collaborate to bring a positive social impact by making use of the technical knowledge developed in academic context.
+- 🔭 I’m currently working on: Analytical/ML Pipelines and 3D WebAPPs   
+- 🌱 I’m currently learning: Delta Live Table Pipelines in Databricks and ThreeJS
+- 👯 I’m currently preparing for: AWS ML Specialty certification and AWS ML Specialty certification  
+- 🏫 I'm mentoring graduation Reasearch Projects: ML-based Frameworks for Improving Immersive Experiences.
+- 🐬 Honored to have worked recently at [XLIM lab](https://www.xlim.fr/), [GPDS - UnB](https://gitlab.com/gpds-unb) & [LMI - Sentinela](http://www.lmi-sentinela.unb.br/). 
+- ⚡ Fun fact: My little kitten Figo 🐱 is used to guard my development process and daily meetings... Thus, I am afraid the code I write is more than clean, it is also highly fluffy 😹.
+- 🎨 I believe that science and art can become a powerful tool to overcome inequality in the world, turning science less boring and art even more expansive. Contributing with Audiovisual Projects is a personal hobby, which I’d could collaborate to bring a positive social impact by making use of the technical knowledge developed in academic context.
 
 </details>
 
@@ -61,4 +63,4 @@ I'm a Husband, Father, Professor, and Developer !!
 [googlescholar]: https://scholar.google.com.br/citations?hl=pt-BR&user=POn52SkAAAAJ
 [website]: https://lucas-althoff.github.io/
 [email]: https://ls.althoff@gmail.com
-[linkedin]: https://www.linkedin.com/in//lucas-althoff-747451151
+[linkedin]: https://www.linkedin.com/in//lucas-althoff
