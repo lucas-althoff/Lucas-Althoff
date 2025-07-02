@@ -26,17 +26,18 @@ I'm a Husband, Father, Professor, and of course... a Developer !!
 <img align="left" alt="Colab" width="26px" src="https://miro.medium.com/max/512/1*dWlg8C46t_ZJ9P8rc-RyWg.png"/>
 <img align="left" alt="Pytorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/>
+<img align="left" alt="LangGraph" width="26px" src="https://langchain-ai.github.io/langgraph/static/wordmark_dark.svg"/>
+<img align="left" alt="LangSmith" width="26px" src="https://docs.smith.langchain.com/img/langsmith-logo-black.svg"/>
 
 <br/><br/>
 
 
 #### Track Back
 
-- 🔭 I’m currently working on: Analytical/ML Pipelines and 3D WebAPPs   
-- 🌱 I’m currently learning: Delta Live Table Pipelines in Databricks and ThreeJS
+- 🔭 I’m currently working on: LangGraph-based Multi-agentic Application @Brim 
+- 🌱 I’m currently learning: Self-learning Agents DB-agents tools Integration
 - 👯 I’m currently preparing for: AWS ML Specialty certification and AWS ML Specialty certification  
-- 🏫 I'm mentoring graduation Reasearch Projects: ML-based Frameworks for Improving Immersive Experiences.
-- 🐬 Honored to have worked recently at [XLIM lab](https://www.xlim.fr/), [GPDS - UnB](https://gitlab.com/gpds-unb) & [LMI - Sentinela](http://www.lmi-sentinela.unb.br/). 
+- 🐬 Honored to have worked recently at [Eldorado](https://www.eldorado.org.br/en/), [Stefanini](https://stefanini.com/en), [Banco do Brasil](https://blog.bb.com.br/), [XLIM lab](https://www.xlim.fr/), [GPDS - UnB](https://gitlab.com/gpds-unb) & [LMI - Sentinela](http://www.lmi-sentinela.unb.br/). 
 - ⚡ Fun fact: My little kitten Figo 🐱 is used to guard my development process and daily meetings... Thus, I am afraid the code I write is more than clean, it is also highly fluffy 😹.
 - 🎨 I believe that science and art can become a powerful tool to overcome inequality in the world, turning science less boring and art even more expansive. Contributing with Audiovisual Projects is a personal hobby, which I’d could collaborate to bring a positive social impact by making use of the technical knowledge developed in academic context.
 
